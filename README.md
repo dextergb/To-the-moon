@@ -1,6 +1,10 @@
 ## To The Moon!
 
+!["To The Moon! Logo"](docs/logo.png)
+
 ## To The Moon! is a single page React application built as a tool for new direct investors to practice and learn about investing in stocks in real time without risking their own money.
+
+!["To The Moon! gif"](docs/to-the-moon.gif)
 
 ## Skills on Display
 
